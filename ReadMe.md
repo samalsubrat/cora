@@ -4,7 +4,7 @@
 This document outlines the **execution phases and key tasks** for building the
 Correlation-Based Benchmark Analysis system for Energy Commodities.
 
----
+
 
 ## Phase 0 — Concept & Design
 - [ ] Finalize project scope and non-goals
@@ -13,7 +13,7 @@ Correlation-Based Benchmark Analysis system for Energy Commodities.
 - [ ] Lock system architecture
 - [ ] Create design and assumptions document
 
----
+
 
 ## Phase 1 — Data Acquisition
 - [ ] Identify public benchmark data sources
@@ -22,7 +22,7 @@ Correlation-Based Benchmark Analysis system for Energy Commodities.
 - [ ] Validate data completeness and frequency
 - [ ] Document data sources
 
----
+
 
 ## Phase 2 — Data Preprocessing
 - [ ] Align benchmark time-series by date
@@ -31,7 +31,7 @@ Correlation-Based Benchmark Analysis system for Energy Commodities.
 - [ ] Apply Z-score normalization
 - [ ] Validate normalized datasets
 
----
+
 
 ## Phase 3 — Correlation Engine
 - [ ] Implement rolling 36-month window logic
@@ -40,7 +40,7 @@ Correlation-Based Benchmark Analysis system for Energy Commodities.
 - [ ] Store time-indexed correlation matrices
 - [ ] Validate correlation outputs
 
----
+
 
 ## Phase 4 — Benchmark Grouping
 - [ ] Convert correlation values to distance metrics
@@ -49,7 +49,7 @@ Correlation-Based Benchmark Analysis system for Energy Commodities.
 - [ ] Analyze cluster stability over time
 - [ ] Validate grouping accuracy
 
----
+
 
 ## Phase 5 — Visualization
 - [ ] Create correlation heatmaps
@@ -58,7 +58,7 @@ Correlation-Based Benchmark Analysis system for Energy Commodities.
 - [ ] Visualize cluster evolution
 - [ ] Enable chart export functionality
 
----
+
 
 ## Phase 6 — Backend API
 - [ ] Set up FastAPI backend
@@ -67,7 +67,7 @@ Correlation-Based Benchmark Analysis system for Energy Commodities.
 - [ ] Implement cluster retrieval endpoint
 - [ ] Add API documentation
 
----
+
 
 ## Phase 7 — Electron Desktop App
 - [ ] Set up Electron project
@@ -76,7 +76,7 @@ Correlation-Based Benchmark Analysis system for Energy Commodities.
 - [ ] Add export and filtering features
 - [ ] Package cross-platform desktop app
 
----
+
 
 ## Phase 8 — Testing & QA
 - [ ] Test correlation correctness
@@ -85,7 +85,7 @@ Correlation-Based Benchmark Analysis system for Energy Commodities.
 - [ ] Test UI responsiveness and stability
 - [ ] Fix identified issues
 
----
+
 
 ## Phase 9 — Documentation & Iteration
 - [ ] Write system and math documentation
@@ -94,10 +94,10 @@ Correlation-Based Benchmark Analysis system for Energy Commodities.
 - [ ] Identify improvements for next version
 - [ ] Finalize project handover
 
----
+
 
 ## Status
 **Current Phase:** ⬜ Not Started  
 **Overall Progress:** 0%
 
----
+
